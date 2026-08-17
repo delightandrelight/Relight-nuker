@@ -1,0 +1,2 @@
+dicord.py==2.7.1
+pystyle

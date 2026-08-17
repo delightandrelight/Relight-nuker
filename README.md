@@ -50,7 +50,7 @@ OWNER_ID = "enter your id here"
 
 ### 5. run
 ```bash
-python main.py
+python xyzy.py
 ```
 
 for more help join our discord server!

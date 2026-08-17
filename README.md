@@ -39,6 +39,9 @@ pip install -r requirements.txt
 ```
 ### 4. configuration
 create a `.env` file,
+```bash
+nano .env
+```
 
 add these variables in it
 

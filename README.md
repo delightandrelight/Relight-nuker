@@ -14,5 +14,47 @@ for more recommendations, you can directly message me @asyncio.wait on discord, 
 https://discord.gg/6vW8w5SmFS
 we also have various tools there!
 
-## HOW TO USE ? 
+## Installation
+
+### 1. Update packages
+
+```bash
+pkg update
+pkg upgrade
+```
+### 2. install python, git
+```bash
+pkg install python git
+```
+
+### 3. clone the repository 
+```bash
+git clone https://github.com/delightandrelight/Relight-nuker.git
+cd Relight-nuker
+```
+
+🎟️ install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4. configuration
+create a `.env` file,
+
+add these variables in it
+
+```
+DISCORD_TOKEN = "enter bots token here"
+GUILD_ID = "enter guilds id here"
+OWNER_ID = "enter your id here"
+```
+
+### 5. run
+```bash
+python main.py
+```
+
+for more help join our discord server!
+
+
+
 
